@@ -50,7 +50,6 @@ function resetFunction(e) {
     document.querySelector(".max img").src =  images[count].src;
 
 }
-// ваше событие здесь!!!
 
 document.querySelector('.prev').onclick = prevFunction;
 document.querySelector('.next').onclick = nextFunction;
